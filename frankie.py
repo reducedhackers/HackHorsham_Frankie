@@ -1,4 +1,4 @@
-a#  thanks to https://learn.adafruit.com/pi-video-output-using-pygame/pointing-pygame-to-the-framebuffer for pyscope
+#  thanks to https://learn.adafruit.com/pi-video-output-using-pygame/pointing-pygame-to-the-framebuffer for pyscope
 #   
 
 
